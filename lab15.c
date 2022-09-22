@@ -1,9 +1,12 @@
 /** lab15.c
  * ===========================================================
- * Name:
- * Section:
+ * Name: Benjamin Tat
+ * Section: T6
  * Project: Lab 15
- * Purpose:
+ * Purpose: In this lab, you will extract statistics from 
+ *          National Football League player data. Specifically, 
+ *          you will have the 2017 player data on rushing 
+ *          attempts, total rushing yards, and touchdowns. 
  * ===========================================================
  */
 

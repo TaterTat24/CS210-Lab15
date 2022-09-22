@@ -1,7 +1,7 @@
 /** football.c
 * ===========================================================
-* Name: 
-* Section:
+* Name: Benjamin Tat
+* Section: T6
 * Project: Lab 15
 * Purpose: Provides functionality for extracting data from files
 * ===========================================================
